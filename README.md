@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am a Tech Lead Data Track and Data Coach in Laboratoria.
+I hold a Master's degree in Data Science and Business Analytics from IMF Business Education and Universidad de Nebrija. I also completed a Master's degree in Production Engineering at UFRGS. In addition to my academic achievements, I have extensive experience as a Data Analyst and Data Coach. I am truly passionate about learning and teaching, constantly seeking new knowledge and sharing my expertise with others.
+
 <!--
 **mirelemborges/mirelemborges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
